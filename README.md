@@ -1,6 +1,6 @@
 # OpenClassrooms - Quatrième projet
-Construisez un site e-commerce.
+Optimisez un site web existant.
 
 - Nom et Prénom : Grail Mathéo
-- Projet : #05
-- Date de début : 18/01/2021
+- Projet : #04
+- Date de début : 09/01/2021
